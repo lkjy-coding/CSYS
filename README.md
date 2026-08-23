@@ -18,28 +18,28 @@
 
 ---
 
-在GitHub/GitLab同步上线，如果网络不通畅，将优先上线GitLab。
+在 GitHub / AC Git 同步上线，如果网络不通畅，将优先上线 AC Git。
 
-在GitHub/GitLab同步上線，如果網路不通暢，將優先上線GitLab。
+在 GitHub／AC Git 同步上線，如果網路不通暢，將優先上線 AC Git。
 
-GitHub 跟 GitLab 會同步上線，啊如果網路不穩，會先上 GitLab。
+GitHub 跟 AC Git 會同步上線，啊如果網路不穩，會先上 AC Git。
 
-GitHub 同 GitLab 會同步上線，如果網路唔穩定，會優先上 GitLab。
+GitHub 同 AC Git 會同步上線，如果網路唔穩定，會優先上 AC Git。
 
-GitHub 同 GitLab 會同步上線，如果網路唔順，會優先上 GitLab。
+GitHub 同 AC Git 會同步上線，如果網路唔順，會優先上 AC Git。
 
-If the network is not smooth, GitLab will be prioritized for simultaneous launch on GitHub/GitLab.
+If the network is not smooth, AC Git will be prioritized for simultaneous launch on GitHub/AC Git.
 
-GitHub/GitLab에서 온라인 상태로 전환합니다. 네트워크가 제대로 연결되지 않으면 우선적으로 GitLab을 온라인 상태로 전환합니다.
+GitHub/AC Git에서 온라인 상태로 전환합니다. 네트워크가 제대로 연결되지 않으면 우선적으로 AC Git을 온라인 상태로 전환합니다.
 
-Si GitHub/GitLab se conecta de forma simultánea, GitLab se conectará preferentemente si la red no funciona correctamente.
+Si GitHub/AC Git se conecta de forma simultánea, AC Git se conectará preferentemente si la red no funciona correctamente.
 
-Mettez-vous en ligne simultanément sur GitHub/GitLab. Si le réseau est déconnecté, GitLab sera mis en ligne de préférence.
+Mettez-vous en ligne simultanément sur GitHub/AC Git. Si le réseau est déconnecté, AC Git sera mis en ligne de préférence.
 
-Подключитесь к сети через GitHub/GitLab. Если подключение к Интернету не работает, GitLab будет запущен в первую очередь.
+Подключитесь к сети через GitHub/AC Git. Если подключение к Интернету не работает, AC Git будет запущен в первую очередь.
 
-Sincronizza il lancio su GitHub/GitLab. Se la rete non funziona, GitLab verrà messo online per primo.
+Sincronizza il lancio su GitHub/AC Git. Se la rete non funziona, AC Git verrà messo online per primo.
 
-Sincronize o GitLab/GitLab. Se a rede não estiver funcionando, o GitLab será a prioridade.
+Sincronize o AC Git/GitHub. Se a rede não estiver funcionando, o AC Git será a prioridade.
 
-Wenn das Netzwerk nicht verfügbar ist, wird GitLab bevorzugt gestartet.
+Wenn das Netzwerk nicht verfügbar ist, wird AC Git bevorzugt gestartet.
