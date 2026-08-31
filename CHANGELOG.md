@@ -37,3 +37,10 @@
   - `:wq`命令即使设置为无权限不退出时，仍然会在无权限时退出的问题
   - **严重的语法问题**
 - 新增了`timer`（`repeat`、`tasks`、`taskkill`）命令
+
+6.0.0
+
+- 新增了`lockon`、`unlock confirm`、`debug`、`format`（…）、`game`、`sens`及彩蛋指令
+- 加强了`permission`
+- 修复了以下问题：
+  - `game start`模式下当`blockCommandsWhileGamesRunning`为**`true`**未正常拦截其他指令的问题
