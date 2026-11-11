@@ -1,0 +1,21 @@
+The following CSYS versions will no longer receive technical support and will no longer receive additional updates. If users use CSYS versions and services that have been explicitly announced as unsupported and suffer losses as a result, CSYS and its developers shall be exempt from all liability to the extent permitted by law.
+
+CSYS and its developers advise users to use the latest CSYS version as soon as possible to ensure they can obtain version updates and technical support at any time.
+
+The following only lists version numbers and no longer indicates file names.
+
+1.0.0
+
+2.0.0
+
+3.0.0
+
+4.0.0
+
+5.0.0
+
+6.0.0
+
+7.0.0
+
+7.0.0 Whistle
